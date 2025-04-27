@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "this repository is for learning node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byiringiro-aime-thierry/node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byiringiro-aime-thierry/node-js/issues"
+  },
+  "homepage": "https://github.com/byiringiro-aime-thierry/node-js#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
